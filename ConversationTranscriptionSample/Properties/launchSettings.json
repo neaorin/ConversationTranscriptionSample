@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ConversationTranscriptionSample": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "CognitiveServicesSpeechRegion": "<your service region>",
+        "CognitiveServicesSpeechKey": "<your key>"
+      }
+    }
+  }
+}
